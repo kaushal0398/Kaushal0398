@@ -17,6 +17,17 @@ I'm Kaushal Panpaliya, a dedicated enthusiast in the fields of cryptography and 
 
 - 💻 **Programming Languages:** Golang, TypeScript, and Rust are my tools of choice. These languages empower me to bring my ideas to life and craft robust software.
 
+ Use To Code
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
 ## Get in Touch
 
 I'm excited to connect with fellow developers, enthusiasts, and potential collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kaushalpanpaliya/) to explore networking and collaboration opportunities.
