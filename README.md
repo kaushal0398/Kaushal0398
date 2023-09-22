@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Kaushal Panpaliya - Cryptography Enthusiast | Core Blockchain Developer
 
-Welcome to my GitHub repository! I'm Kaushal Panpaliya, and I'm deeply passionate about the realms of cryptography and blockchain technology. This repository showcases my expertise as a Cryptography Enthusiast and Core Blockchain Developer, with a focus on Ethereum and Solana ecosystems. My programming skills include Golang, TypeScript, and Rust.
+I'm Kaushal Panpaliya, and I'm deeply passionate about the realms of cryptography and blockchain technology. This repository showcases my expertise as a Cryptography Enthusiast and Core Blockchain Developer, with a focus on Ethereum and Solana ecosystems. My programming skills include Golang, TypeScript, and Rust.
 
 ## About Me
 
