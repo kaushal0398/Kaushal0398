@@ -7,8 +7,9 @@ I'm deeply passionate about the realms of cryptography and blockchain technology
 
 I'm Kaushal Panpaliya, a dedicated enthusiast in the fields of cryptography and blockchain. Exploring the fascinating world of secure communication and decentralized systems is not just a hobby for me, it's a way of life.
 
--->
-![stats](https://github-readme-stats.vercel.app/api?username=KaushalPanpaliya&show_icons=true&theme=tokyonight)
+## **📊 Stats**
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaushalPanpaliya&show_icons=true&theme=tokyonight)
 
 ## Skills
 
