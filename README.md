@@ -3,7 +3,7 @@
   <h1 align="center"><b>Hello there, I'm Kaushal  👋</b></h1>
 </p>
 
-<h1 align="center"><b> a dedicated enthusiast in the fields of cryptography and blockchain. Exploring the fascinating world of secure communication and decentralized systems is not just a hobby for me, it's a way of life.👋</b></h1>
+<h1 align="center"><b> Enthusiast in the fields of cryptography and blockchain. Exploring the fascinating world of secure communication and decentralized systems is not just a hobby for me, it's a way of life.</b></h1>
 
 ## **📊 Stats**
 
