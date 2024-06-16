@@ -1,9 +1,9 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
 <p>
-  <h1 align="center"><b>Hello there, I'm Kaushal a dedicated enthusiast in the fields of cryptography and blockchain. Exploring the fascinating world of secure communication and decentralized systems is not just a hobby for me, it's a way of life.
- 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Kaushal  👋</b></h1>
 </p>
 
+<h1 align="center"><b> a dedicated enthusiast in the fields of cryptography and blockchain. Exploring the fascinating world of secure communication and decentralized systems is not just a hobby for me, it's a way of life.👋</b></h1>
 
 ## **📊 Stats**
 
