@@ -4,7 +4,9 @@
 </p>
 
 <h1 align="center"><b> Enthusiast in the fields of cryptography and blockchain. Exploring the fascinating world of secure communication and decentralized systems is not just a hobby for me, it's a way of life.</b></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal0398&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal0398" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushal0398" alt="kaushal0398" /></a> </p>
 
 ## **📊 Stats**
 
