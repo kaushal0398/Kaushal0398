@@ -22,8 +22,7 @@
 I'm excited to connect with fellow developers, enthusiasts, and potential collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kaushalpanpaliya/) to explore networking and collaboration opportunities.
 
 ---
-Kaushal0398
-Cryptography Enthusiast | Blockchain Developer
+
 Email: kaushalpanpaliya@gmail.com
 
 
