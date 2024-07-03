@@ -23,8 +23,7 @@ I'm excited to connect with fellow developers, enthusiasts, and potential collab
 
 ---
 Kaushal0398
-Cryptography Enthusiast | Core Blockchain Developer
+Cryptography Enthusiast | Blockchain Developer
 Email: kaushalpanpaliya@gmail.com
-LinkedIn: [Kaushal](https://www.linkedin.com/in/kaushal-panpaliya-964799204/)
-Twitter: [Kaushal](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjkk9elioWBAxXGxDgGHdHLB5UQFnoECA8QAQ&url=https%3A%2F%2Ftwitter.com%2Fkaushal_sol&usg=AOvVaw1445VTKm_ej91vZUoDv5cG&opi=89978449)
+
 
