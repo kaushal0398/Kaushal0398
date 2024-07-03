@@ -5,9 +5,13 @@
 
 <h1 align="center"><b> Enthusiast in the fields of cryptography and blockchain. Exploring the fascinating world of secure communication and decentralized systems is not just a hobby for me, it's a way of life.</b></h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal0398&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal0398" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushal0398" alt="kaushal0398" /></a> </p>
+
 ## **📊 Stats**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaushalPanpaliya&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaushal0398&show_icons=true&theme=tokyonight)
 
 
 ## Languages and Tools
@@ -19,9 +23,9 @@
 I'm excited to connect with fellow developers, enthusiasts, and potential collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kaushalpanpaliya/) to explore networking and collaboration opportunities.
 
 ---
-Kaushal Panpaliya
+Kaushal0398
 Cryptography Enthusiast | Core Blockchain Developer
 Email: kaushalpanpaliya@gmail.com
-LinkedIn: [Kaushal Panpaliya](https://www.linkedin.com/in/kaushal-panpaliya-964799204/)
+LinkedIn: [Kaushal](https://www.linkedin.com/in/kaushal-panpaliya-964799204/)
 Twitter: [Kaushal](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjkk9elioWBAxXGxDgGHdHLB5UQFnoECA8QAQ&url=https%3A%2F%2Ftwitter.com%2Fkaushal_sol&usg=AOvVaw1445VTKm_ej91vZUoDv5cG&opi=89978449)
 
