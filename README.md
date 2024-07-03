@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal0398&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal0398" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushal0398" alt="kaushal0398" /></a> </p>
-
 ## **📊 Stats**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaushal0398&show_icons=true&theme=tokyonight)
