@@ -1,9 +1,13 @@
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <p>
   <h1 align="center"><b>Hello there, I'm Kaushal  👋</b></h1>
 </p>
 
-<h1 align="center"><b> Enthusiast in the fields of cryptography and blockchain. Exploring the fascinating world of secure communication and decentralized systems is not just a hobby for me, it's a way of life.</b></h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=750&lines=Enthusiast+in+the+fields+of+cryptography+and+blockchain" alt="Typing SVG" />
+  </a>
+</div>
+<hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal0398&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal0398" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushal0398" alt="kaushal0398" /></a> </p>
