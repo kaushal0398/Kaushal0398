@@ -1,32 +1,66 @@
-<p>
-  <h1 align="center"><b>Hello there, I'm Kaushal  👋</b></h1>
+<h1 align="center"><b>Hello, I'm Kaushal 👋</b></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22F700&center=true&vCenter=true&width=750&lines=Cryptography+%7C+Blockchain+%7C+Open+Source+Enthusiast" alt="Typing SVG">
 </p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=750&lines=Enthusiast+in+the+fields+of+cryptography+and+blockchain" alt="Typing SVG" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaushal0398&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaushal0398&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal0398&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kaushal0398&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Profile Trophy" />
   </a>
-</div>
-<hr/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal0398&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal0398" /> </p>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushal0398" alt="kaushal0398" /></a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal0398&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-## **📊 Stats**
+<h3 align="center">🛠️ Languages and Tools</h3>
+<p align="center">
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://www.rust-lang.org" target="_blank">
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://thegraph.com/en/" target="_blank">
+    <img src="https://img.shields.io/badge/The%20Graph-181717?style=for-the-badge&logo=thegraph&logoColor=white" alt="The Graph" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushal0398&show_icons=true&theme=tokyonight)
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaushal0398/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/kaushal0398" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:kaushalpanpaliya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-
-## Languages and Tools
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpgvOBKj_7oMY-pm3o3m2vhHVA4EWPCZ6K1_ZrVANUuKuvYGdcGCMW73nRLS1lL1yKCEY&usqp=CAU" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://thegraph.com/en/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/38020273?s=280&v=4" alt="thegraph" width="40" height="40"/> </a> </p>
-
-
-## Get in Touch
-
-I'm excited to connect with fellow developers, enthusiasts, and potential collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kaushalpanpaliya/) to explore networking and collaboration opportunities.
-
----
-
-Email: kaushalpanpaliya@gmail.com
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=440&lines=Thanks+for+visiting!" alt="Thanks for visiting!" />
+</p>
