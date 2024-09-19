@@ -1,7 +1,7 @@
-<h1 align="center"><b>Hello, I'm Kaushal 👋</b></h1>
+<h1 align="center"><b>Hey there, I'm Kaushal 👋</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22F700&center=true&vCenter=true&width=750&lines=Cryptography+%7C+Blockchain+%7C+Open+Source+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22F700&center=true&vCenter=true&width=750&lines=Cryptography+%7C+Blockchain+%7C+Open+Source+Dev" alt="Typing SVG">
 </p>
 
 <p align="center">
